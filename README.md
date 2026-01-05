@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm rudey
+
+😄 Pronouns: They/Them
+
+🔭 I’m currently working as a jnr web developer (LAMP)
+
+🌱 I’m currently learning Vim :qw!
+
+💬 Ask me about music, cooking, gaming
+
+📫 How to reach me: Discord @rudey
 
 <!--
 **rudey794/rudey794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
